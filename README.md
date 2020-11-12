@@ -1,6 +1,3 @@
-<div id="header">
-
-<center>![ESCaPe 2015 - Project Symposium and Job Fair](img/escape_logo.png)</center>
 
 ![on 2nd of September, 2015](img/side_logo.png)  
 
