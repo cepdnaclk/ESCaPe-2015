@@ -1,4 +1,4 @@
-
+<img align="left" width="100" height="100" src="img/side_logo.png">
 ![on 2nd of September, 2015](img/side_logo.png)  
 
 ## Third Engineering Students' Conference at Peradeniya
@@ -311,7 +311,7 @@ Thipakar Sabapathipillai and Sinthuja Kopalakirushan<br />
 
 <div id="endingContent">  
 
-<center>![ESCaPe 2015 - Project Symposium and Job Fair](img/escape_logo.png)</center>
+![ESCaPe 2015 - Project Symposium and Job Fair](img/escape_logo.png)
 
 ## Third Engineering Students' Conference at Peradeniya
 
