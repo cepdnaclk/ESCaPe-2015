@@ -27,11 +27,11 @@
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#00c486;">Read the Paper</div>
 
-](papers/pp1.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp1.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#00b476;">View Presentation</div>
 
-](presentations/pr1.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pdf</div>
 
 <div class="sessionProceeding_2">
 
