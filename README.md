@@ -208,19 +208,19 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr10.p
 
 ![poster](mini/thumbs/Air-quality-measure.jpg?raw=true) 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
-https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Air-quality-measure.jpg\
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Air-quality-measure.jpg<br />
 Measuring Air Quality in Kandy: Dissanayake DMAM, Rathnayake RMST and Dasanayake TS
 <br />
 
 ![Project_poster](mini/thumbs/AllInOne.jpg)
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
-https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/AllInOne.jpg\
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/AllInOne.jpg<br />
 Implementation of a Social Media Management Application: Jayasinghe JPLH, Bandara MGCM and Bandara SMLK
 <br />
 
 ![Project_poster](mini/thumbs/collaborative_learning.jpg)
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
-https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/collaborative_learning.jpg\
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/collaborative_learning.jpg<br />
 Implementing Collaborative Learning on SmartPhones and Tablets: Abeyratne OMTN, Sadhna MJS, and Senadheera WHMUP
 <br />
 
