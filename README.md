@@ -207,13 +207,14 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr10.p
 
 
 ![poster](mini/thumbs/Air-quality-measure.jpg?raw=true) 
- <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
- https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Air-quality-measure.jpg 
-<figcaption itemprop="caption description">Measuring Air Quality in Kandy: Dissanayake DMAM, Rathnayake RMST and Dasanayake TS</figcaption>
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Air-quality-measure.jpg 
+Measuring Air Quality in Kandy: Dissanayake DMAM, Rathnayake RMST and Dasanayake TS
 
 ![Project_poster](mini/thumbs/AllInOne.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
  https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/AllInOne.jpg
-<figcaption itemprop="caption description">Implementation of a Social Media Management Application: Jayasinghe JPLH, Bandara MGCM and Bandara SMLK</figcaption>
+Implementation of a Social Media Management Application: Jayasinghe JPLH, Bandara MGCM and Bandara SMLK
 
 
 <figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/collaborative_learning.jpg)](mini/collaborative_learning.jpg) 
