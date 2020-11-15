@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="img/side_logo.png">
+
 ![on 2nd of September, 2015](img/side_logo.png)  
 
 ## Third Engineering Students' Conference at Peradeniya
@@ -318,6 +318,5 @@ Thipakar Sabapathipillai and Sinthuja Kopalakirushan<br />
 ![invitees](img/guests.png) ![sponsors](img/sponsors.png)  
 </div>
 
-<div id="footer">![aces partnered with slasscom](img/aces_slasscom.png)</div>
+![aces partnered with slasscom](img/aces_slasscom.png)
 
-<script type="text/javascript">$(window).resize(function(){ var width = $(window).width(), height = $(window).height(); if ((width <= 1200)) { // console.log(height); $("#posters").height($(".my-gallery img").height()*5 + $("div#posters div#minGallery h1").height()*3); } else { // alert('Do nothing'); } }); $(document).ready(function(){ var width = $(window).width(), height = $(window).height(); if ((width <= 1200)) { // console.log(height); $("#posters").height($(".my-gallery img").height()*5 + $("div#posters div#minGallery h1").height()*3); } else { // alert('Do nothing'); } });</script>
