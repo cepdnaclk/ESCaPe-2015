@@ -41,11 +41,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#00c486;">Read the Paper</div>
 
-](papers/pp2.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp2.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#00b476;">View Presentation</div>
 
-](presentations/pr2.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr2.pdf</div>
 
 <div class="sessionProceeding_3">
 
@@ -55,11 +55,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#00c486;">Read the Paper</div>
 
-](papers/pp3.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp3.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#00b476;">View Presentation</div>
 
-](presentations/pr3.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr3.pdf</div>
 
 </div>
 
@@ -81,11 +81,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#7e17b8;">Read the Paper</div>
 
-](papers/pp4.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp4.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#6e07a8;">View Presentation</div>
 
-](presentations/pr4.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr4.pdf</div>
 
 <div class="sessionProceeding_2">
 
@@ -95,11 +95,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#7e17b8;">Read the Paper</div>
 
-](papers/pp5.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp5.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#6e07a8;">View Presentation</div>
 
-](presentations/pr5.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr5.pdf</div>
 
 </div>
 
@@ -121,11 +121,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#ca0b36;">Read the Paper</div>
 
-](papers/pp6.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp6.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#ba0b26;">View Presentation</div>
 
-](presentations/pr6.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr6.pdf</div>
 
 <div class="sessionProceeding_2">
 
@@ -135,11 +135,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#ca0b36;">Read the Paper</div>
 
-](papers/pp7.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp7.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#ba0b26;">View Presentation</div>
 
-](presentations/pr7.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr7.pdf</div>
 
 <div class="sessionProceeding_3">
 
@@ -149,11 +149,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#ca0b36;">Read the Paper</div>
 
-](papers/pp8.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp8.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#ba0b26;">View Presentation</div>
 
-](presentations/pr8.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr8.pdf</div>
 
 </div>
 
@@ -175,11 +175,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">Read the Paper</div>
 
-](papers/pp9.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp9.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#0c88b8;">View Presentation</div>
 
-](presentations/pr9.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr9.pdf</div>
 
 <div class="sessionProceeding_2">
 
@@ -189,11 +189,11 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr1.pd
 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">Read the Paper</div>
 
-](papers/pp10.pdf)[
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/papers/pp10.pdf
 
 <div class="button presnt_down flaticon-connecting7" style="background-color:#0c88b8;">View Presentation</div>
 
-](presentations/pr10.pdf)</div>
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr10.pdf</div>
 
 </div>
 
