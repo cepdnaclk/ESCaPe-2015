@@ -206,9 +206,9 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr10.p
 # Posters from the Project Symposium
 
 
-![sponsors](mini/thumbs/Air-quality-measure.jpg?raw=true) 
+![poster](mini/thumbs/Air-quality-measure.jpg?raw=true) 
   
- (https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Air-quality-measure.jpg) 
+ ![pic](mini/Air-quality-measure.jpg) 
 
 <figcaption itemprop="caption description">Measuring Air Quality in Kandy: Dissanayake DMAM, Rathnayake RMST and Dasanayake TS</figcaption>
 
