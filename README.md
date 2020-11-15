@@ -210,6 +210,7 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr10.p
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
 https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Air-quality-measure.jpg 
 <div class="poster_text">Measuring Air Quality in Kandy: Dissanayake DMAM, Rathnayake RMST and Dasanayake TS<div>
+ <br />
 
 ![Project_poster](mini/thumbs/AllInOne.jpg)
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
