@@ -209,98 +209,99 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr10.p
 ![poster](mini/thumbs/Air-quality-measure.jpg?raw=true) 
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
 https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Air-quality-measure.jpg 
-<div class="poster_text">Measuring Air Quality in Kandy: Dissanayake DMAM, Rathnayake RMST and Dasanayake TS<div>
- <br />
+Measuring Air Quality in Kandy: Dissanayake DMAM, Rathnayake RMST and Dasanayake TS
+<br />
 
 ![Project_poster](mini/thumbs/AllInOne.jpg)
 <div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
- https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/AllInOne.jpg
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/AllInOne.jpg
 Implementation of a Social Media Management Application: Jayasinghe JPLH, Bandara MGCM and Bandara SMLK
+<br />
+
+![Project_poster](mini/thumbs/collaborative_learning.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/collaborative_learning.jpg
+Implementing Collaborative Learning on SmartPhones and Tablets: Abeyratne OMTN, Sadhna MJS, and Senadheera WHMUP
+<br />
 
 
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/collaborative_learning.jpg)](mini/collaborative_learning.jpg) 
+![Project_poster](mini/thumbs/Fraud-detection-_-data-mining.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Fraud-detection-_-data-mining.jpg
+Fraud Detection with Data Mining: Mohammed Fawsan
+<br />
 
-<figcaption itemprop="caption description">Implementing Collaborative Learning on SmartPhones and Tablets: Abeyratne OMTN, Sadhna MJS, and Senadheera WHMUP</figcaption>
+![Project_poster](mini/thumbs/GenMRP.jpg)]
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/GenMRP.jpg
+GenMRP: Nipuna Thanura and Udakara Rathnayake
+<br />
 
-</figure>
+![Project_poster](mini/thumbs/HardWHERE.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/HardWHERE.jpg
+HardWHERE.lk: Tharinda Ehelepola, Menaka Jayawardena, Irunika Weeraratne, Prassana Rodrigo
+<br />
 
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/Fraud-detection-_-data-mining.jpg)](mini/Fraud-detection-_-data-mining.jpg) 
+![Project_poster](mini/thumbs/HomeBuddy_1.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/HomeBuddy_1.jpg
+Home Buddy: Dinanjana Gunaratne
+<br />
 
-<figcaption itemprop="caption description">Fraud Detection with Data Mining: Mohammed Fawsan</figcaption>
+![Project_poster](mini/thumbs/ICAforBCI.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/ICAforBCI.jpg
+ICAforBCI: Titus Nanda Kumara and Geesara Prathap
+<br />
 
-</figure>
+![Project_poster](mini/thumbs/MIPS.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/MIPS.jpg
+MIPS: Malin Prematilake, Buddhi Wickramasinghe
+<br />
 
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/GenMRP.jpg)](mini/GenMRP.jpg) 
+![Project_poster](mini/thumbs/OPEN-BIOMECHANICS-SYSTEM.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/OPEN-BIOMECHANICS-SYSTEM.jpg
+OPEN-BIOMECHANICS-SYSTEM: Pumudika Dissanayake, Madushan Adikari and Chathuranga Bamunusinghe
+<br />
 
-<figcaption itemprop="caption description">GenMRP: Nipuna Thanura and Udakara Rathnayake</figcaption>
+![Project_poster](mini/thumbs/Power-Analysis-Attack.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Power-Analysis-Attack.jpg
+Power-Analysis-Attack: Hasindu Gamaarachchi and Harsha Ganegoda
+<br />
 
-</figure>
+![Project_poster](mini/thumbs/SDN-testbed.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/SDN-testbed.jpg
+SDN-testbed: Weerawardhana JLMN and Chandimal NJAW
+<br />
 
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/HardWHERE.jpg)](mini/HardWHERE.jpg) 
+![Project_poster](mini/thumbs/Sentiment-analysis.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Sentiment-analysis.jpg
+Sentiment-analysis: Pulojan S, Kabil T and Mokeepan M
+<br />
 
-<figcaption itemprop="caption description">HardWHERE.lk: Tharinda Ehelepola, Menaka Jayawardena, Irunika Weeraratne, Prassana Rodrigo</figcaption>
+![Project_poster](mini/thumbs/Sinhalanews-Agg.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Sinhalanews-Agg.jpg
+Sinhalanews-Agg: Tharaka Kaluhendiwela, Indunil Prasanna and Dilhan Wanigasooriya
+<br />
 
-</figure>
+![Project_poster](mini/thumbs/Verifiable-Ex-record.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Verifiable-Ex-record.jpg
+Verifiable-Ex-record: Amila Amunugama, Kasun Samarawickrama and Randunu Yasaranga</figcaption>
+<br />
 
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/HomeBuddy_1.jpg)](mini/HomeBuddy_1.jpg) 
-
-<figcaption itemprop="caption description">Home Buddy: Dinanjana Gunaratne</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/ICAforBCI.jpg)](mini/ICAforBCI.jpg) 
-
-<figcaption itemprop="caption description">ICAforBCI: Titus Nanda Kumara and Geesara Prathap</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/MIPS.jpg)](mini/MIPS.jpg) 
-
-<figcaption itemprop="caption description">MIPS: Malin Prematilake, Buddhi Wickramasinghe</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/OPEN-BIOMECHANICS-SYSTEM.jpg)](mini/OPEN-BIOMECHANICS-SYSTEM.jpg) 
-
-<figcaption itemprop="caption description">OPEN-BIOMECHANICS-SYSTEM: Pumudika Dissanayake, Madushan Adikari and Chathuranga Bamunusinghe</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/Power-Analysis-Attack.jpg)](mini/Power-Analysis-Attack.jpg) 
-
-<figcaption itemprop="caption description">Power-Analysis-Attack: Hasindu Gamaarachchi and Harsha Ganegoda</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/SDN-testbed.jpg)](mini/SDN-testbed.jpg) 
-
-<figcaption itemprop="caption description">SDN-testbed: Weerawardhana JLMN and Chandimal NJAW</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/Sentiment-analysis.jpg)](mini/Sentiment-analysis.jpg) 
-
-<figcaption itemprop="caption description">Sentiment-analysis: Pulojan S, Kabil T and Mokeepan M</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/Sinhalanews-Agg.jpg)](mini/Sinhalanews-Agg.jpg) 
-
-<figcaption itemprop="caption description">Sinhalanews-Agg: Tharaka Kaluhendiwela, Indunil Prasanna and Dilhan Wanigasooriya</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/Verifiable-Ex-record.jpg)](mini/Verifiable-Ex-record.jpg) 
-
-<figcaption itemprop="caption description">Verifiable-Ex-record: Amila Amunugama, Kasun Samarawickrama and Randunu Yasaranga</figcaption>
-
-</figure>
-
-<figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">[![Project_poster](mini/thumbs/VirusScanningGPU.jpg)](mini/VirusScanningGPU.jpg) 
-
-<figcaption itemprop="caption description">VirusScanningGPU: Thipakar Sabapathipillai and Sinthuja Kopalakirushan</figcaption>
-
-</figure>
+![Project_poster](mini/thumbs/VirusScanningGPU.jpg)
+<div class="button paper_down flaticon-newspaper2" style="background-color:#0c98c8;">View full image</div> 
+https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/VirusScanningGPU.jpg
+Thipakar Sabapathipillai and Sinthuja Kopalakirushan
+<br />
 
 </div>
 
