@@ -208,7 +208,7 @@ https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/presentations/pr10.p
 <div class="my-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 
 <figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"> 
-![sponsors](mini/thumbs/Air-quality-measure.jpg) 
+![sponsors](mini/thumbs/Air-quality-measure.jpg?raw=true) 
   
   (https://github.com/cepdnaclk/e10-4yp-all-projects/tree/main/mini/Air-quality-measure.jpg) 
 
